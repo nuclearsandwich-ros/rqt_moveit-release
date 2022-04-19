@@ -1,1 +1,1 @@
-{"base": "f86106b", "parent": "debian/rolling/rqt_moveit", "previous": "788f4ce", "trim": "", "trimbase": ""}
+{"base": "78d87fc", "parent": "debian/humble/rqt_moveit", "previous": "b865415", "trim": "", "trimbase": ""}
